@@ -1,0 +1,2 @@
+page is inside of layout
+rafce=>it an boiler plate for arrow function
